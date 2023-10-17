@@ -8,7 +8,7 @@ const Navigation = () => {
       <nav>
         <Link className="li" to="/">
           <h1>
-            CIOROI<span>VILLE</span>
+            Guti<span>VILLE</span>
           </h1>
         </Link>
         <ul>
